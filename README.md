@@ -5,3 +5,7 @@ Demo for Github Intro video!
 
 
 Read blog.
+
+## Local Development 
+
+1. Open index.html in your browser
